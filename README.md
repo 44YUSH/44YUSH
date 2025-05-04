@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aayush Sith</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[original-e30c99e1862f2c9b4a13f046a2a2e78b.gif](https://cdn.dribbble.com/userupload/20610310/file/original-e30c99e1862f2c9b4a13f046a2a2e78b.gif)”>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/20610310/file/original-e30c99e1862f2c9b4a13f046a2a2e78b.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=44yush&label=Profile%20views&color=0e75b6&style=flat" alt="44yush" /> </p>
 
