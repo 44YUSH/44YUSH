@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Sith</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="center" alt="Banner" src="[https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDYzNzM3NjIsIm5iZiI6MTc0NjM3MzQ2MiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTA0VDE1NDQyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg5YTM1ZWNlNmIyNTgzOWVhZDdiZjk5Zjg4NTY4ZjI2YTEzOGJjMjZkMDVmNjJiOTI2YzI3Yzc0ZjBlMWRkYWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.NmBXGZYwOUSm7AZKjsTjzc8gHwPJbkfF26b2OldCGmU](https://www.reddit.com/r/Cyberpunk/comments/17orhba/coding_by_pixel_jeff/#lightbox)">
+<img align="center" alt="Banner" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 - 🌱 I’m currently learning **React Native , Swift UI**
 
