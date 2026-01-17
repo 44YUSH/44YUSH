@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aayush Sith</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="center" alt="Banner" src="https://www.thisiscolossal.com/wp-content/uploads/2024/01/spherewave.gif">
+<p align="center">
+  <img src="https://www.thisiscolossal.com/wp-content/uploads/2024/01/spherewave.gif" width="600" />
+</p>
+
 
 - 🌱 I’m currently learning **Angular**
 
