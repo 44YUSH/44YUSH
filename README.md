@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center">
-  <img src="https://www.thisiscolossal.com/wp-content/uploads/2024/01/spherewave.gif" width="600" />
+  <img src="https://github.com/44YUSH/Artist/blob/main/AayushSith.gif?raw=true" width="100%" /><br>
+  <p align="right">* Designed and Created by Aayush Sith *</p>
 </p>
 
 
