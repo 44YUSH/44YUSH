@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aayush sith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayush sith" height="30" width="40" /></a>
-<a href="https://instagram.com/4.a.y.u.s.h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="4.a.y.u.s.h" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aayush sith" target="blank"><img align="center" src="https://cdn.dribbble.com/userupload/19914420/file/original-fa73e948d55a3424ad17c41c939c4059.gif" alt="aayush sith" width="6%"/></a>
+<a href="https://instagram.com/4.a.y.u.s.h" target="blank"><img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21jb3BtemM2YmZsY2F6ZXN5MW0zaHF2ZmNvb3dydTNxa29sNW9jNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QZOxRp5tZTemNQzpgc/giphy.gif" alt="4.a.y.u.s.h" width="5%" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
