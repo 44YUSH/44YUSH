@@ -1,8 +1,31 @@
-<h1 align="center">Hi 👋, I'm Aayush Sith</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">𝐀𝐚𝐲𝐮𝐬𝐡 𝐒𝐢𝐭𝐡</h1>
 
-<p align="center">
-  <img src="https://github.com/44YUSH/Artist/blob/main/AayushSith.gif?raw=true" width="100%" /><br>
+
+
+<table align="right">
+  <tr>
+     <td align="left">
+      <h3 align="left">ABOUT</h3><br>
+       <p>
+         I am a developer from India with a strong foundation in Java, HTML, CSS, and MySQL, focused on building clean, efficient, and user-friendly web solutions. I have a growing interest in frontend development and UI design, and I actively work with creative tools such as Figma and Canva to design intuitive interfaces and engaging visual content. I am currently associated with Siksha ‘O’ Anusandhan (Institute of Technical Education and Research), Bhubaneswar, where I continue to refine my technical and creative skills while exploring modern development practices.
+         
+Beyond software development, I am involved in video editing using DaVinci Resolve and pursue creative interests including painting, sketching, music, singing, and playing the piano (Casio). These creative disciplines help strengthen my attention to detail, visual thinking, and problem-solving abilities, allowing me to approach projects with a balanced mindset that blends technical precision with creativity.
+       </p><br>
+    </td>
+    <td align="left" width="40%">
+      <img src="https://github.com/44YUSH/Artist/blob/main/AayushSith.gif?raw=true" width="100%" /><br>
+      <!-- <p align="right">scattered</p> -->
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+<p align="right">
   <p align="right">* Designed and Created by Aayush Sith *</p>
 </p>
 
