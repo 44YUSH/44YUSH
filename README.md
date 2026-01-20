@@ -33,15 +33,19 @@ I am a developer from India with strong skills in Java, HTML, CSS, and MySQL, al
 
 <table align="center">
   <tr>
-         <td align="left" width="50%">
+      <td width="50%">
       <br>
       <img src="https://github.com/44YUSH/Artist/blob/main/Profile/AayushSith.jpg" width="100%" />
     </td>
-     <td align="left">
+     <td width="25%" align="center">
          <ul>
             <li>Java</li>
             <li>HTML</li>
             <li>CSS</li>
+        </ul>
+    </td>
+    <td width="25%" align="center">
+         <ul>
             <li>MySQL</li>
             <li>Figma</li>
             <li>Canva</li>
