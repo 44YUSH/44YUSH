@@ -140,4 +140,4 @@ I am a developer from India with strong skills in Java, HTML, CSS, and MySQL, al
 
 </p>
 <br>
-<h6 align="center">All content presented here is originally created by Aayush Sith.</h6>
+<h6 align="center">Original content by Aayush Sith.</h6>
