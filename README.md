@@ -37,7 +37,7 @@ I am a developer from India with strong skills in Java, HTML, CSS, and MySQL, al
       <br>
       <img src="https://github.com/44YUSH/Artist/blob/main/Profile/AayushSith.jpg" width="100%" />
     </td>
-     <td width="25%" align="left">
+     <td width="20%" align="left">
          <ul>
             <li>Java</li>
             <li>HTML</li>
@@ -47,14 +47,12 @@ I am a developer from India with strong skills in Java, HTML, CSS, and MySQL, al
             <li>Canva</li>
         </ul>
     </td>
-    <td width="25%" align="left">
+    <td width="20%" align="left">
          <ul>
             <li>Artist</li>
             <li>Singer</li>
             <li>Pianist</li>
             <li>Athlete</li>
-            <li>Swimmer</li>
-            <li>Videographer</li>
         </ul>
     </td>
   </tr>
