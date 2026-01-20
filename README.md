@@ -1,4 +1,22 @@
-<h1 align="center">𝐀𝐚𝐲𝐮𝐬𝐡 𝐒𝐢𝐭𝐡</h1>
+<h1 align="center">Aayush Sith</h1>
+
+<!-- <img src="https://github.com/44YUSH/Artist/blob/main/AayushSith.gif?raw=true" width="10%" /> -->
+I am a developer from India with a strong foundation in Java, HTML, CSS, and MySQL, focused on building clean, efficient, and user-friendly web solutions. I have a growing interest in frontend development and UI design, and I actively work with creative tools such as Figma and Canva to design intuitive interfaces and engaging visual content. I am currently associated with Siksha ‘O’ Anusandhan (Institute of Technical Education and Research), Bhubaneswar, where I continue to refine my technical and creative skills while exploring modern development practices.
+         
+Beyond software development, I am involved in video editing using DaVinci Resolve and pursue creative interests including painting, sketching, music, singing, and playing the piano (Casio). These creative disciplines help strengthen my attention to detail, visual thinking, and problem-solving abilities, allowing me to approach projects with a balanced mindset that blends technical precision with creativity.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -7,13 +25,12 @@
      <td align="left">
       <h3 align="left">ABOUT</h3><br>
        <p>
-         I am a developer from India with a strong foundation in Java, HTML, CSS, and MySQL, focused on building clean, efficient, and user-friendly web solutions. I have a growing interest in frontend development and UI design, and I actively work with creative tools such as Figma and Canva to design intuitive interfaces and engaging visual content. I am currently associated with Siksha ‘O’ Anusandhan (Institute of Technical Education and Research), Bhubaneswar, where I continue to refine my technical and creative skills while exploring modern development practices.
-         
-Beyond software development, I am involved in video editing using DaVinci Resolve and pursue creative interests including painting, sketching, music, singing, and playing the piano (Casio). These creative disciplines help strengthen my attention to detail, visual thinking, and problem-solving abilities, allowing me to approach projects with a balanced mindset that blends technical precision with creativity.
+         I am a developer from India with strong skills in Java, HTML, CSS, and MySQL, along with experience in UI design and visual content creation using Figma and Canva. I am currently associated with Siksha ‘O’ Anusandhan (Institute of Technical Education and Research), Bhubaneswar, where I continue to build and strengthen my technical foundation while focusing on developing clean, efficient, and user-friendly web solutions.
        </p><br>
     </td>
-    <td align="left" width="40%">
-      <img src="https://github.com/44YUSH/Artist/blob/main/AayushSith.gif?raw=true" width="100%" /><br>
+    <td align="left" width="50%">
+      <br>
+      <img src="https://github.com/44YUSH/Artist/blob/main/AayushSith.gif?raw=true" width="100%" />
       <!-- <p align="right">scattered</p> -->
     </td>
   </tr>
