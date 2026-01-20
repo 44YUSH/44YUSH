@@ -1,37 +1,27 @@
 <h1 align="center">Aayush Sith</h1>
 
-<!-- <img src="https://github.com/44YUSH/Artist/blob/main/AayushSith.gif?raw=true" width="10%" /> -->
-I am a developer from India with a strong foundation in Java, HTML, CSS, and MySQL, focused on building clean, efficient, and user-friendly web solutions. I have a growing interest in frontend development and UI design, and I actively work with creative tools such as Figma and Canva to design intuitive interfaces and engaging visual content. I am currently associated with Siksha ‘O’ Anusandhan (Institute of Technical Education and Research), Bhubaneswar, where I continue to refine my technical and creative skills while exploring modern development practices.
-         
-Beyond software development, I am involved in video editing using DaVinci Resolve and pursue creative interests including painting, sketching, music, singing, and playing the piano (Casio). These creative disciplines help strengthen my attention to detail, visual thinking, and problem-solving abilities, allowing me to approach projects with a balanced mindset that blends technical precision with creativity.
+<img src="https://github.com/44YUSH/Artist/blob/main/AayushSith.gif?raw=true" width="100%" />
+I am a developer from India with strong skills in Java, HTML, CSS, and MySQL, along with experience in UI design and visual content creation using Figma and Canva. I am currently associated with Siksha ‘O’ Anusandhan (Institute of Technical Education and Research), Bhubaneswar, where I continue to build and strengthen my technical foundation while focusing on developing clean, efficient, and user-friendly web solutions.
 
+<hr>
 
+<p align="left">
+<a href="https://linkedin.com/in/aayush sith" target="blank"><img align="center" src="https://cdn.dribbble.com/userupload/19914420/file/original-fa73e948d55a3424ad17c41c939c4059.gif" alt="aayush sith" width="6%"/></a>
+<a href="https://instagram.com/4.a.y.u.s.h" target="blank"><img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21jb3BtemM2YmZsY2F6ZXN5MW0zaHF2ZmNvb3dydTNxa29sNW9jNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QZOxRp5tZTemNQzpgc/giphy.gif" alt="4.a.y.u.s.h" width="5%" /></a>
+</p>
 
+<hr>
+<br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-<table align="right">
+<table align="center">
   <tr>
-     <td align="left">
-      <h3 align="left">ABOUT</h3><br>
-       <p>
-         I am a developer from India with strong skills in Java, HTML, CSS, and MySQL, along with experience in UI design and visual content creation using Figma and Canva. I am currently associated with Siksha ‘O’ Anusandhan (Institute of Technical Education and Research), Bhubaneswar, where I continue to build and strengthen my technical foundation while focusing on developing clean, efficient, and user-friendly web solutions.
-       </p><br>
-    </td>
-    <td align="left" width="50%">
+         <td align="left" width="50%">
       <br>
-      <img src="https://github.com/44YUSH/Artist/blob/main/AayushSith.gif?raw=true" width="100%" />
-      <!-- <p align="right">scattered</p> -->
+      <!-- <img src="https://github.com/44YUSH/Artist/blob/main/AayushSith.gif?raw=true" width="100%" /> -->
+    </td>
+     <td align="left">
+         - Java
+         - Html, Css
     </td>
   </tr>
 </table>
