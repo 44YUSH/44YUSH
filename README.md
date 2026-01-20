@@ -12,18 +12,18 @@ I am a developer from India with strong skills in Java, HTML, CSS, and MySQL, al
   <img align="center" 
        src="https://cdn.dribbble.com/userupload/21431665/file/original-1bb12c5f23da1c97fc2e25e87290b43d.gif" 
        alt="aayushsith0@gmail.com" 
-       width="10%"/>
+       width="15%"/>
 </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://linkedin.com/in/aayush sith" target="blank"><img align="center" src="https://cdn.dribbble.com/userupload/19914420/file/original-fa73e948d55a3424ad17c41c939c4059.gif" alt="aayush sith" width="10%"/></a>
+      <a href="https://linkedin.com/in/aayush sith" target="blank"><img align="center" src="https://cdn.dribbble.com/userupload/19914420/file/original-fa73e948d55a3424ad17c41c939c4059.gif" alt="aayush sith" width="15%"/></a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://instagram.com/4.a.y.u.s.h" target="blank"><img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21jb3BtemM2YmZsY2F6ZXN5MW0zaHF2ZmNvb3dydTNxa29sNW9jNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QZOxRp5tZTemNQzpgc/giphy.gif" alt="4.a.y.u.s.h" width="10%" /></a>
+      <a href="https://instagram.com/4.a.y.u.s.h" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*GScQfnnz-dhOyR-imRAqrg.gif" alt="4.a.y.u.s.h" width="15%" /></a>
     </td>
   </tr>
 </table>
