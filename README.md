@@ -5,7 +5,7 @@ I am a developer from India with strong skills in Java, HTML, CSS, and MySQL, al
 
 <hr>
 
-<table align="left" width="100%">
+<table align="center" width="100%">
   <tr>
     <td>
       <a href="mailto:aayushsith0@gmail.com" target="_blank">
@@ -40,7 +40,8 @@ I am a developer from India with strong skills in Java, HTML, CSS, and MySQL, al
 
   <tr>
     <td width="40%" align="center" rowspan="4">
-      <img src="https://github.com/44YUSH/Artist/blob/main/Profile/AayushSith.jpg" width="100%" />
+      <a href="https://portfolio-44yushs-projects.vercel.app">
+      <img src="https://github.com/44YUSH/Artist/blob/main/Profile/AayushSith.jpg" width="100%" align="center"/>
     </td>
     <td width="30%" align="center">1</td>
     <td width="30%" align="center">2</td>
@@ -61,6 +62,7 @@ I am a developer from India with strong skills in Java, HTML, CSS, and MySQL, al
     <td align="center">8</td>
   </tr>
 </table>
+
 
 
 
