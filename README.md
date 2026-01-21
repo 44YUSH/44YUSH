@@ -39,12 +39,20 @@ I am a developer from India with strong skills in Java, HTML, CSS, and MySQL, al
   </tr>
 
   <tr>
-    <td width="40%" align="center" rowspan="4">
+    <td width="50%" align="center" rowspan="4">
       <a href="https://portfolio-44yushs-projects.vercel.app">
       <img src="https://github.com/44YUSH/Artist/blob/main/Profile/AayushSith.jpg" width="100%" align="center"/>
     </td>
-    <td width="30%" align="center">1</td>
-    <td width="30%" align="center">2</td>
+    <td width="25%" align="center">
+      <a href="https://mj-constructions.vercel.app/">
+          <img src="https://github.com/44YUSH/Artist/blob/main/Profile/MJ/M%3As%20MJ.%20Constructions.jpeg" width="100%" aligh="center"/>
+        </a>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://vibe-list-playlist-suggestor-app.vercel.app/">
+          <img src="https://github.com/44YUSH/Artist/blob/main/Profile/VL/VibeList.png" width="100%" aligh="center"/>
+        </a>
+    </td>
   </tr>
 
   <tr>
