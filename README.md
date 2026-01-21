@@ -31,34 +31,61 @@ I am a developer from India with strong skills in Java, HTML, CSS, and MySQL, al
 <hr>
 <br>
 
-<table align="center">
+
+
+<table width="100%" align="center">
   <tr>
-      <td width="50%">
-      <br>
+    <th colspan="3" align="center">Projects</th>
+  </tr>
+
+  <tr>
+    <td width="40%" align="center">
       <img src="https://github.com/44YUSH/Artist/blob/main/Profile/AayushSith.jpg" width="100%" />
     </td>
-     <td width="20%" align="left">
-         <ul>
-            <li>Java</li>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>MySQL</li>
-            <li>Figma</li>
-            <li>Canva</li>
-        </ul>
+
+  <td width="30%" align="center">
+      <table width="100%">
+        <tr>
+          <td align="center">1</td>
+          <td align="center">2</td>
+        </tr>
+        <tr>
+          <td align="center">3</td>
+          <td align="center">4</td>
+        </tr>
+        <tr>
+          <td align="center">5</td>
+          <td align="center">6</td>
+        </tr>
+        <tr>
+          <td align="center">7</td>
+          <td align="center">8</td>
+        </tr>
+      </table>
     </td>
-    <td width="20%" align="left">
-         <ul>
-            <li>Artist</li>
-            <li>Singer</li>
-            <li>Pianist</li>
-            <li>Athlete</li>
-        </ul>
+
+  <td width="30%" align="center">
+      <table width="100%">
+        <tr>
+          <td align="center">1</td>
+          <td align="center">2</td>
+        </tr>
+        <tr>
+          <td align="center">3</td>
+          <td align="center">4</td>
+        </tr>
+        <tr>
+          <td align="center">5</td>
+          <td align="center">6</td>
+        </tr>
+        <tr>
+          <td align="center">7</td>
+          <td align="center">8</td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
-
-
 
 
 
