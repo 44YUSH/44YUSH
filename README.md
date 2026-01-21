@@ -39,32 +39,26 @@ I am a developer from India with strong skills in Java, HTML, CSS, and MySQL, al
   </tr>
 
   <tr>
-    <!-- 40% Image -->
-    <td width="40%" align="center">
+    <td width="40%" align="center" rowspan="4">
       <img src="https://github.com/44YUSH/Artist/blob/main/Profile/AayushSith.jpg" width="100%" />
     </td>
+    <td width="30%" align="center">1</td>
+    <td width="30%" align="center">2</td>
+  </tr>
 
-  <!-- 60% Content (2x4 Grid) -->
-  <td width="60%" colspan="2" align="center">
-      <table width="100%">
-        <tr>
-          <td align="center">1</td>
-          <td align="center">2</td>
-        </tr>
-        <tr>
-          <td align="center">3</td>
-          <td align="center">4</td>
-        </tr>
-        <tr>
-          <td align="center">5</td>
-          <td align="center">6</td>
-        </tr>
-        <tr>
-          <td align="center">7</td>
-          <td align="center">8</td>
-        </tr>
-      </table>
-    </td>
+  <tr>
+    <td align="center">3</td>
+    <td align="center">4</td>
+  </tr>
+
+  <tr>
+    <td align="center">5</td>
+    <td align="center">6</td>
+  </tr>
+
+  <tr>
+    <td align="center">7</td>
+    <td align="center">8</td>
   </tr>
 </table>
 
