@@ -76,7 +76,7 @@ I am a developer from India with strong skills in Java, HTML, CSS, and MySQL, al
 <h2>Certifications
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Twitter_Verified_Badge.svg"
        alt="Verified"
-       width="25"
+       width="20"
        align="center"/>
 </h2>
   
