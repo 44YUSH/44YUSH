@@ -29,8 +29,6 @@ I am a developer from India with strong skills in Java, HTML, CSS, and MySQL, al
 </table>
 
 <hr>
-<br>
-
 
 
 <table width="100%" align="center">
@@ -72,7 +70,22 @@ I am a developer from India with strong skills in Java, HTML, CSS, and MySQL, al
 </table>
 
 
+<hr>
 
+<div>
+<h2>Certifications
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Twitter_Verified_Badge.svg"
+       alt="Verified"
+       width="25"
+       align="center"/>
+</h2>
+  
+<ul>
+  <li>Aayush</li>
+</ul>
+</div>
+
+<hr>
 
 
 <div align="center">
