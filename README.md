@@ -40,7 +40,7 @@ I am a developer from India with strong skills in Java, HTML, CSS, and MySQL, al
 
   <tr>
     <td width="50%" align="center" rowspan="4">
-      <a href="https://portfolio-44yushs-projects.vercel.app">
+      <a href="https://portfolio-44yushs-projects.vercel.app/">
       <img src="https://github.com/44YUSH/Artist/blob/main/Profile/AayushSith.jpg" width="100%" align="center"/>
     </td>
     <td width="25%" align="center">
