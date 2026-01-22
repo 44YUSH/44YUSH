@@ -82,7 +82,7 @@ I am a developer from India with strong skills in Java, HTML, CSS, and MySQL, al
   
 <ul>
   <li><a href="https://vibe-list-playlist-suggestor-app.vercel.app/">Oracle Certified Foundations Associate</li>
-    <li><a href="https://drive.google.com/drive/folders/1su_RlixIC7lVfcNw3u6_ORCj4DvayHf9">Scaler OOPs Java Course</li>
+    <li><a href="https://drive.google.com/file/d/1eBs1i8xvsnT6Q1PfvFpOS8rZ-IXiInvm/view?usp=sharing">Scaler OOPs Java Course</li>
 </ul>
 </div>
 
