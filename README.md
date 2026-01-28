@@ -57,19 +57,10 @@ I am a developer from India with strong skills in Java, HTML, CSS, and MySQL, al
   </tr>
 
   <tr>
-    <td align="center">+</td>
-    <td align="center">+</td>
-  </tr>
-
-  <tr>
     <td align="center">.</td>
     <td align="center">.</td>
   </tr>
 
-  <tr>
-    <td align="center">.</td>
-    <td align="center">.</td>
-  </tr>
 </table>
 
 
