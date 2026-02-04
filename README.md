@@ -1,4 +1,4 @@
-<img src="https://github.com/44YUSH/Artist/blob/main/Profile/TransparentNAME.gif" width="100%" />.
+<img src="https://github.com/44YUSH/Artist/blob/main/Profile/TransparentNAME.gif" width="100%" />
 <hr>
 <img src="https://github.com/44YUSH/Artist/blob/main/AayushSith.gif?raw=true" width="100%" />
 I am a developer from India with strong skills in Java, HTML, CSS, and MySQL, along with experience in UI design and visual content creation using Figma and Canva. I am currently associated with Siksha ‘O’ Anusandhan (Institute of Technical Education and Research), Bhubaneswar, where I continue to build and strengthen my technical foundation while focusing on developing clean, efficient, and user-friendly web solutions.
