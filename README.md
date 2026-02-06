@@ -15,12 +15,6 @@
 
 
 
-
-
-
-
-
-
 <table align="center" width="100%">
 
   <tr>
@@ -33,16 +27,16 @@
       <img align="center" 
        src="https://cdn.dribbble.com/userupload/21431665/file/original-1bb12c5f23da1c97fc2e25e87290b43d.gif" 
        alt="aayushsith0@gmail.com" 
-       width="45%"/>
+       width="30%"/>
       </a>
     </td>
 
   <td align="center">
-      <a href="https://linkedin.com/in/aayush sith" target="blank"><img align="center" src="https://cdn.dribbble.com/userupload/19914420/file/original-fa73e948d55a3424ad17c41c939c4059.gif" alt="aayush sith" width="100%"/></a>
+      <a href="https://linkedin.com/in/aayush sith" target="blank"><img align="center" src="https://cdn.dribbble.com/userupload/19914420/file/original-fa73e948d55a3424ad17c41c939c4059.gif" alt="aayush sith" width="60%"/></a>
     </td>
 
   <td align="center">
-      <a href="https://instagram.com/4.a.y.u.s.h" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*GScQfnnz-dhOyR-imRAqrg.gif" alt="4.a.y.u.s.h" width="45%" /></a>
+      <a href="https://instagram.com/4.a.y.u.s.h" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*GScQfnnz-dhOyR-imRAqrg.gif" alt="4.a.y.u.s.h" width="30%" /></a>
     </td>
   </tr>
 </table>
