@@ -12,7 +12,6 @@
   </tr>
 </table>
 
-AAYUSH
 
 
 <table align="center" width="100%">
