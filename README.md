@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-AAYUSH SITH
+AAYUSH
 
 
 <table align="center" width="100%">
